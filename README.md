@@ -1,0 +1,2 @@
+# burn_it
+nft
